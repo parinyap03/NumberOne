@@ -1,8 +1,8 @@
-# NumberOne
+# NumberOne Team
+
+## SC313004 Software Engineering Sec.1
 
 ## Member
-
-### SC313004 Software Engineering Sec.1
 
 1. นายรัตนชัย ทีฆะทิพย์สกุล 623020489-8 
 2. นายสัทธาทร สุกใส 643020056-1	
