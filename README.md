@@ -5,7 +5,7 @@
 ## Member
 
 1. นายรัตนชัย ทีฆะทิพย์สกุล 623020489-8 Section 1 rattanachaikku
-![Rattanachai](picture_student.png)
+![Rattanachai](media/picture_student.png)
 2. นายสัทธาทร สุกใส 643020056-1	
 3. นายชิษณุพงศ์ พิณทอง 643020472-7	
 4. นางสาวปริญญาภรณ์ แสงโนลาด  643020483-2	
