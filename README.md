@@ -8,7 +8,7 @@
 
    > ![Rattanachai](media/picture_student.png)
 
-2. นายสัทธาทร สุกใส 643020056-1
+2. นายสัทธาทร สุกใส 643020056-1 Section 1 5atthaThorn
 
    > ![Satthathorn](media/satthathornphoto.jpg)
 
