@@ -17,7 +17,10 @@
    > ![Chisanupong](media/472-7_PictureSTD.jpg)
    
 5. นางสาวปริญญาภรณ์ แสงโนลาด  643020483-2	Section 1  parinyap03
-6. นางสาวโชติกา เอี่ยมสอาด 643021222-5 Section 1  Chotika14
+
+   > ![Parinyaporn](media/parinyaporn.jpg)
+   
+7. นางสาวโชติกา เอี่ยมสอาด 643021222-5 Section 1  Chotika14
    > ![Chotika](media/me.jpg)
 8. นายทักษิณ แก้วกงพาน 643021230-6	
    > ![Taksin](media/taksin.jpg)
