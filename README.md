@@ -8,7 +8,7 @@
 
    > ![Rattanachai](media/picture_student.png)
 
-2. นายสัทธาทร สุกใส 643020056-1
+2. นายสัทธาทร สุกใส 643020056-1 Section 1 5atthaThorn
 
    > ![Satthathorn](media/satthathornphoto.jpg)
 
@@ -16,7 +16,7 @@
 
    > ![Chisanupong](media/472-7_PictureSTD.jpg)
    
-5. นางสาวปริญญาภรณ์ แสงโนลาด  643020483-2	
+5. นางสาวปริญญาภรณ์ แสงโนลาด  643020483-2	Section 1  parinyap03
 6. นางสาวโชติกา เอี่ยมสอาด 643021222-5	
 7. นายทักษิณ แก้วกงพาน 643021230-6	
    > ![Taksin](media/taksin.jpg)
