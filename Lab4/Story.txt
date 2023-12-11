@@ -1,4 +1,4 @@
-                                         The Emperor's New Clothes by Hans Christian Andersen
+			The Emperor's New Clothes by Hans Christian Andersen
 
 Many years ago, there was an Emperor, who was so excessively fond of new clothes, that he
 spent all his money in dress. He did not trouble himself in the least about his soldiers; nor did
@@ -35,6 +35,7 @@ office? No, that must not be said either. I will never confess that I could not 
 
 "Well, Sir Minister!" said one of the knaves, still pretending to work. "You do not say whether
 the stuff pleases you."
+
 "Oh, it is excellent!" replied the old minister, looking at the loom through his spectacles. "This
 pattern, and the colors, yes, I will tell the Emperor without delay, how very beautiful I think
 them."
@@ -45,6 +46,7 @@ their words, in order that he might repeat them to the Emperor; and then the kna
 more silk and gold, saying that it was necessary to complete what they had begun. However,
 they put all that was given them into their knapsacks; and continued to work with as much
 apparent diligence as before at their empty looms.
+
 The Emperor now sent another officer of his court to see how the men were getting on, and to
 ascertain whether the cloth would soon be ready. It was just the same with this gentleman as
 with the minister; he surveyed the looms on all sides, but could see nothing at all but the empty
@@ -53,6 +55,7 @@ frames.
 "Does not the stuff appear as beautiful to you, as it did to my lord the minister?" asked the
 impostors of the Emperor's second ambassador; at the same time making the same gestures as
 before, and talking of the design and colors which were not there.
+
 "I certainly am not stupid!" thought the messenger. "It must be, that I am not fit for my good,
 profitable office! That is very odd; however, no one shall know anything about it." And
 accordingly he praised the stuff he could not see, and declared that he was delighted with both
@@ -65,7 +68,6 @@ his own expense.
 And now the Emperor himself wished to see the costly manufacture, while it was still in the
 loom. Accompanied by a select number of officers of the court, among whom were the two
 honest men who had already admired the cloth, he went to the crafty impostors, who, as soon
-
 as they were aware of the Emperor's approach, went on working more diligently than ever;
 although they still did not pass a single thread through the looms.
 
@@ -92,6 +94,7 @@ place, and had sixteen lights burning, so that everyone might see how anxious th
 finish the Emperor's new suit. They pretended to roll the cloth off the looms; cut the air with 
 their scissors; and sewed with needles without any thread in them. "See!" cried they, at last. 
 "The Emperor's new clothes are ready!"
+
 And now the Emperor, with all the grandees of his court, came to the weavers; and the rogues 
 raised their arms, as if in the act of holding something up, saying, "Here are your Majesty's 
 trousers! Here is the scarf! Here is the mantle! The whole suit is as light as a cobweb; one might 
@@ -100,12 +103,16 @@ delicate cloth."
 
 "Yes indeed!" said all the courtiers, although not one of them could see anything of this 
 exquisite manufacture.
+
 "If your Imperial Majesty will be graciously pleased to take off your clothes, we will fit on the 
 new suit, in front of the looking glass."
+
 The Emperor was accordingly undressed, and the rogues pretended to array him in his new suit; 
 the Emperor turning round, from side to side, before the looking glass.
+
 "How splendid his Majesty looks in his new clothes, and how well they fit!" everyone cried out. 
 "What a design! What colors! These are indeed royal robes!"
+
 "The canopy which is to be borne over your Majesty, in the procession, is waiting," announced 
 the chief master of the ceremonies
 
@@ -113,9 +120,11 @@ the chief master of the ceremonies
 "I am quite ready," answered the Emperor. "Do my new clothes fit well?" asked he, turning
 himself round again before the looking glass, in order that he might appear to be examining his
 handsome suit.
+
 The lords of the bedchamber, who were to carry his Majesty's train felt about on the ground, as
 if they were lifting up the ends of the mantle; and pretended to be carrying something; for they
 would by no means betray anything like simplicity, or unfitness for their office.
+
 So now the Emperor walked under his high canopy in the midst of the procession, through the
 streets of his capital; and all the people standing by, and those at the windows, cried out, "Oh!
 How beautiful are our Emperor's new clothes! What a magnificent train there is to the mantle;
@@ -125,8 +134,10 @@ or unfit for his office. Certainly, none of the Emperor's various suits, had eve
 impression, as these invisible ones.
 
 "But the Emperor has nothing at all on!" said a little child.
+
 "Listen to the voice of innocence!" exclaimed his father; and what the child had said was
 whispered from one to another.
+
 "But he has nothing at all on!" at last cried out all the people. The Emperor was vexed, for he
 knew that the people were right; but he thought the procession must go on now! And the lords
 of the bedchamber took greater pains than ever, to appear holding up a train, although, in
