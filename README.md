@@ -23,5 +23,7 @@
 5. นางสาวโชติกา เอี่ยมสอาด 643021222-5 [Chotika14](https://github.com/Chotika14)
    > ![Chotika](media/chotika.jpg)
 
-6. นายทักษิณ แก้วกงพาน 643021230-6 (Bastaks)[https://github.com/Bastaks]	
-   > ![Taksin](media/taksin.jpg)
+6. นายทักษิณ แก้วกงพาน 643021230-6 [Bastaks](https://github.com/Bastaks)	
+   > <img src="media/taksin.jpg" alt="Taksin" width="200"/>
+
+
