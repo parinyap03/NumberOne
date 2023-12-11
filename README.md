@@ -21,6 +21,6 @@
    > ![Parinyaporn](media/parinyaporn.jpg)
    
 7. นางสาวโชติกา เอี่ยมสอาด 643021222-5 Section 1  Chotika14
-   > ![Chotika](media/me.jpg)
+   > ![Chotika](media/chotika.jpg)
 8. นายทักษิณ แก้วกงพาน 643021230-6	
    > ![Taksin](media/taksin.jpg)
