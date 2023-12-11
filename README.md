@@ -14,7 +14,7 @@
 
 4. นายชิษณุพงศ์ พิณทอง 643020472-7	
 
-   > ![Chisanupong](media/472-7_PictureSTD.jpg)
+   > <img src="media/chisanupong.jpg" alt="Chisanupong" width="200"/>
    
 5. นางสาวปริญญาภรณ์ แสงโนลาด  643020483-2	Section 1  parinyap03
 
