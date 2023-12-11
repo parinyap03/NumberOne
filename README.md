@@ -4,23 +4,24 @@
 
 ## Member
 
-1. นายรัตนชัย ทีฆะทิพย์สกุล 623020489-8 Section 1 rattanachaikku
+1. นายรัตนชัย ทีฆะทิพย์สกุล 623020489-8 [rattanachaikku](https://github.com/rattanachaikku)
 
    > ![Rattanachai](media/picture_student.png)
 
-2. นายสัทธาทร สุกใส 643020056-1 Section 1 5atthaThorn
+2. นายสัทธาทร สุกใส 643020056-1 [5atthaThorn](https://github.com/5atthaThorn)
 
-   > ![Satthathorn](media/satthathornphoto.jpg)
+   > <img src="media/satthathornphoto.jpg" alt="Satthathorn" width="200"/>
 
-4. นายชิษณุพงศ์ พิณทอง 643020472-7	
+3. นายชิษณุพงศ์ พิณทอง 643020472-7	 [chisanupong45](https://github.com/chisanupong45)
 
    > <img src="media/chisanupong.jpg" alt="Chisanupong" width="200"/>
    
-5. นางสาวปริญญาภรณ์ แสงโนลาด  643020483-2	Section 1  parinyap03
+4. นางสาวปริญญาภรณ์ แสงโนลาด  643020483-2 [parinyap03](https://github.com/parinyap03)
 
    > ![Parinyaporn](media/parinyaporn.jpg)
    
-7. นางสาวโชติกา เอี่ยมสอาด 643021222-5 Section 1  Chotika14
+5. นางสาวโชติกา เอี่ยมสอาด 643021222-5 [Chotika14](https://github.com/Chotika14)
    > ![Chotika](media/chotika.jpg)
-8. นายทักษิณ แก้วกงพาน 643021230-6	
+
+6. นายทักษิณ แก้วกงพาน 643021230-6 (Bastaks)[https://github.com/Bastaks]	
    > ![Taksin](media/taksin.jpg)
